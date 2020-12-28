@@ -12,3 +12,4 @@ let inputA: Int = 50
 let inputB: Int = 60
 sum = inputA + inputB
 print(sum)
+
